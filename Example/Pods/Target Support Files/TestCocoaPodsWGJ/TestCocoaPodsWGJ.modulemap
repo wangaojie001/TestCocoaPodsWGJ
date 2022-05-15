@@ -1,0 +1,6 @@
+framework module TestCocoaPodsWGJ {
+  umbrella header "TestCocoaPodsWGJ-umbrella.h"
+
+  export *
+  module * { export * }
+}
