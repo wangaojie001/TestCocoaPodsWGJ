@@ -8,6 +8,8 @@
 import UIKit
 
 class TwoSum: NSObject {
+    
+    //添加最新版测试 0.3.0
     func TwoSum(_ nums: [Int], _ target: Int ) -> [Int] {
         
         var dict = [Int: Int]()
